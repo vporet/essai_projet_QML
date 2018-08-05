@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>Overlay.qml</file>
+        <file>cam_photo_copy.png</file>
+        <file>cam_photo.png</file>
+        <file>camera_flash_auto.png</file>
+        <file>camera_flash_off.png</file>
+        <file>camera_square.png</file>
+    </qresource>
+</RCC>
